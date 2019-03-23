@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Clase de HitHub
 Actualizamos el archivo para la clase GitHub
+
+### Terminando clase
+Aprendimos a usar git y github
