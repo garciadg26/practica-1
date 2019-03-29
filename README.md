@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Clase de HitHub
 Actualizamos el archivo para la clase GitHub
+
+### Conectamos Sourcetree
+Actualizamos conección con Sourcetree
