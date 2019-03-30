@@ -1,4 +1,4 @@
-# Objetivos de la repositorio
+﻿# Objetivos de la repositorio
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
@@ -11,3 +11,6 @@ Actualizamos el archivo para la clase GitHub
 
 ### Conectamos Sourcetree
 Actualizamos conección con Sourcetree
+
+## Actualizamos el archivo README.md
+Conectamos los cambios con SOURCETREE
